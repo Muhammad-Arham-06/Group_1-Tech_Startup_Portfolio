@@ -23,4 +23,4 @@ After the mids we learn about the HTML, CSS and we also craeted our own site. Af
 
 ## Website Live Link
 
-- https://moeezahmad-tech.github.io/Group_1-Tech_Startup_Portfolio/
+- https://muhammad-arham-06.github.io/Group_1-Tech_Startup_Portfolio/
